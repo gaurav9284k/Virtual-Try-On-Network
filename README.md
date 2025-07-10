@@ -1,2 +1,1 @@
-# second_repository
-This is my second repository
+"Virtual Try On Network"
